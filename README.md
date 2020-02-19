@@ -2,7 +2,7 @@
 Submission by Eddie Nieberding
 For Aymmetrik Coding Challenge 2020
 
-## Running Instructions <h2> tag
+## Running Instructions <h2>
 No IDE or packages need to be installed to run my program   
 Any python 3 interpreter will work   
 If you seperate the files, please make sure the test files and the soure program are in the same directory  
