@@ -1,6 +1,6 @@
 # AsymmetrikCodingChallenge2020
-Submission by Eddie Nieberding
-For Aymmetrik Coding Challenge 2020
+Submission by Eddie Nieberding   
+For Aymmetrik Coding Challenge 2020   
 
 ## Running Instructions 
 No IDE or packages need to be installed to run my program   
